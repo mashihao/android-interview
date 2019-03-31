@@ -42,8 +42,9 @@
 ### 5、[哪些情况下的对象会被垃圾回收机制处理掉-美团-小米](https://edward7zhang.github.io/2018/03/03/%E5%93%AA%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E7%9A%84%E5%AF%B9%E8%B1%A1%E4%BC%9A%E8%A2%AB%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E5%A4%84%E7%90%86%E6%8E%89%EF%BC%9F/)
 1、[垃圾回收机制原理](https://cloud.tencent.com/developer/article/1332790)
 
-2、https://edward7zhang.github.io/2018/03/03/%E5%93%AA%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E7%9A%84%E5%AF%B9%E8%B1%A1%E4%BC%9A%E8%A2%AB%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E5%A4%84%E7%90%86%E6%8E%89%EF%BC%9F/
+2、[几种方式](https://edward7zhang.github.io/2018/03/03/%E5%93%AA%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E7%9A%84%E5%AF%B9%E8%B1%A1%E4%BC%9A%E8%A2%AB%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6%E5%A4%84%E7%90%86%E6%8E%89%EF%BC%9F/)
 
+![图片地址引用见上链接](https://upload-images.jianshu.io/upload_images/2383956-ba53932280b3f10f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
